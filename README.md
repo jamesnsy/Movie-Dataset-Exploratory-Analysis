@@ -4,7 +4,7 @@
 - This dataset contains information on 7669 movies from 1986-2020 collected from IMDb database.
 
 ## Objectives
-In this project, the following questions will be answered:
+In this project, the following questions are answered:
 1) Which  main actor/actress make the most appearances in films?
 2) What are the popular genres in the movie industry? How have movie genres changed throughout the years of the dataset?
 3) What are the top movies based on revenue (gross), budget, IMDb score and votes?
